@@ -1,0 +1,29 @@
+body{
+
+    background:#f2f2f2;
+
+}
+
+.card{
+
+    border-radius:20px;
+
+}
+
+#count{
+
+    font-size:70px;
+
+    font-weight:bold;
+
+}
+
+#status{
+
+    font-size:50px;
+
+    font-weight:bold;
+
+    color:green;
+
+}
